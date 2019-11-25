@@ -1,0 +1,47 @@
+
+
+****************BALL INFO SET LOG******************
+
+Study Date and Time: 11/21/2019 12:56:04 PM
+Group: AM
+Number: 1
+
+[59.49174, False]
+[57.99174, False]
+[56.48602, False]
+[54.9796, False]
+[53.47576, False]
+[51.97531, False]
+[50.46886, False]
+[48.96239, False]
+[47.46152, False]
+[45.95482, False]
+[44.45303, False]
+[42.94681, False]
+[41.44171, False]
+[39.94062, False]
+[38.4333, False]
+[36.93224, False]
+[35.43137, False]
+[33.92888, False]
+[32.42408, False]
+[30.92116, False]
+[29.41603, False]
+[27.91592, False]
+[26.41501, False]
+[24.91341, False]
+[23.40898, False]
+[21.90808, False]
+[20.40677, False]
+[18.90512, False]
+[17.39994, False]
+[15.89841, False]
+[14.39791, False]
+[12.89647, False]
+[11.39568, False]
+[9.890776, False]
+[8.387526, False]
+[6.88664, False]
+[5.380524, False]
+[3.878954, False]
+[2.375051, False]

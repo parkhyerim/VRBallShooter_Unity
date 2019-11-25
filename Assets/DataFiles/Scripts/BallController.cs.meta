@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: a11a4e29975e90846bdd2f23570b6632
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - yellowBall: {fileID: 518354988474903736, guid: 630cff4127c8f5144bd0f1c71c0d0cab,
+      type: 3}
+  - blueBall: {fileID: 685786485783276677, guid: 4781cf11ae406434aa17c17fc79a65ba,
+      type: 3}
+  - leftBallPos: {instanceID: 0}
+  - leftBallPos2: {instanceID: 0}
+  - centerBallPos: {instanceID: 0}
+  - rightBallPos: {instanceID: 0}
+  - rightBallPos2: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

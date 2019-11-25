@@ -1,0 +1,257 @@
+
+
+****************CHRONOLOGICAL EVENT LOG******************
+
+Date and Time: 11/20/2019 3:47:13 PM
+Group: AM
+Number: 1
+
+Time: 0.5063057,  Time(CD): 59.49369,   State: False,  Number: 1
+
+Time: 2.008865,  Time(CD): 57.99113,   State: False,  Number: 2
+
+Time: 3.511189,  Time(CD): 56.48881,   State: False,  Number: 3
+
+Time: 5.016201,  Time(CD): 54.9838,   State: False,  Number: 4
+
+Time: 6.520542,  Time(CD): 53.47946,   State: False,  Number: 5
+
+Time: 8.021099,  Time(CD): 51.9789,   State: False,  Number: 6
+
+Time: 10.00362,  Time(CD): 49.99638,  Interruption Event: Start: Open the door
+
+Time: 9.525936,  Time(CD): 50.47406,   State: False,  Number: 7
+
+Time: 10.00222,  Time(CD): 49.99778,  Interruption Event: Start: Open the door
+
+Time: 20.00295,  Time(CD): 39.99705,  Interruption Event: Signal
+
+Time: 25.00127,  Time(CD): 34.99873,  Interruption Event: Asking
+
+Time: 30.00601,  Time(CD): 29.99399,  Interruption Event: Stop Asking
+
+Time: 10.00387,  Time(CD): 49.99613,  Interruption Event: Start: Open the door
+
+Time: 0.5104523,  Time(CD): 59.48955,   State: False,  Number: 1
+
+Time: 2.013672,  Time(CD): 57.98633,   State: False,  Number: 2
+
+Time: 3.516117,  Time(CD): 56.48388,   State: False,  Number: 3
+
+Time: 5.019131,  Time(CD): 54.98087,   State: False,  Number: 4
+
+Time: 6.520374,  Time(CD): 53.47963,   State: False,  Number: 5
+
+Time: 8.024895,  Time(CD): 51.97511,   State: False,  Number: 6
+
+Time: 10.00417,  Time(CD): 49.99583,  Interruption Event: Start: Open the door
+
+Time: 9.53159,  Time(CD): 50.46841,   State: False,  Number: 7
+
+Time: 11.03487,  Time(CD): 48.96513,   State: False,  Number: 8
+
+Time: 12.53683,  Time(CD): 47.46317,   State: False,  Number: 9
+
+Time: 14.08679,  Time(CD): 45.91321,   State: False,  Number: 10
+
+Time: 15.5885,  Time(CD): 44.4115,   State: False,  Number: 11
+
+Time: 17.09158,  Time(CD): 42.90842,   State: False,  Number: 12
+
+Time: 18.5941,  Time(CD): 41.4059,   State: False,  Number: 13
+
+Time: 20.00397,  Time(CD): 39.99603,  Interruption Event: Signal
+
+Time: 20.10065,  Time(CD): 39.89935,   State: False,  Number: 14
+
+Time: 21.60557,  Time(CD): 38.39443,   State: False,  Number: 15
+
+Time: 23.11209,  Time(CD): 36.88791,   State: False,  Number: 16
+
+Time: 25.00553,  Time(CD): 34.99447,  Interruption Event: Asking
+
+Time: 24.61409,  Time(CD): 35.38591,   State: False,  Number: 17
+
+Time: 0.5045624,  Time(CD): 59.49544,   State: False,  Number: 1
+
+Time: 2.006672,  Time(CD): 57.99333,   State: False,  Number: 2
+
+Time: 3.508839,  Time(CD): 56.49116,   State: False,  Number: 3
+
+Time: 5.011208,  Time(CD): 54.98879,   State: False,  Number: 4
+
+Time: 6.515518,  Time(CD): 53.48448,   State: False,  Number: 5
+
+Time: 0.5046272,  Time(CD): 59.49537,   State: False,  Number: 1
+
+Time: 2.005978,  Time(CD): 57.99402,   State: False,  Number: 2
+
+Time: 3.508808,  Time(CD): 56.49119,   State: False,  Number: 3
+
+Time: 5.014332,  Time(CD): 54.98567,   State: False,  Number: 4
+
+Time: 6.517242,  Time(CD): 53.48276,   State: False,  Number: 5
+
+Time: 8.022087,  Time(CD): 51.97791,   State: False,  Number: 6
+
+Time: 10.00323,  Time(CD): 49.99677,  Interruption Event: Start: Open the door
+
+Time: 9.528419,  Time(CD): 50.47158,   State: False,  Number: 7
+
+Time: 11.03251,  Time(CD): 48.96749,   State: False,  Number: 8
+
+Time: 12.53669,  Time(CD): 47.46331,   State: False,  Number: 9
+
+Time: 14.03995,  Time(CD): 45.96005,   State: False,  Number: 10
+
+Time: 15.54057,  Time(CD): 44.45943,   State: False,  Number: 11
+
+Time: 0.5036354,  Time(CD): 59.49636,   State: False,  Number: 1
+
+Time: 2.005291,  Time(CD): 57.99471,   State: False,  Number: 2
+
+Time: 3.510674,  Time(CD): 56.48933,   State: False,  Number: 3
+
+Time: 5.011559,  Time(CD): 54.98844,   State: False,  Number: 4
+
+Time: 6.513966,  Time(CD): 53.48603,   State: False,  Number: 5
+
+Time: 8.018803,  Time(CD): 51.9812,   State: False,  Number: 6
+
+Time: 10.00646,  Time(CD): 49.99354,  Interruption Event: Start: Open the door
+
+Time: 9.52166,  Time(CD): 50.47834,   State: False,  Number: 7
+
+Time: 11.02336,  Time(CD): 48.97664,   State: False,  Number: 8
+
+Time: 12.52978,  Time(CD): 47.47022,   State: False,  Number: 9
+
+Time: 14.03576,  Time(CD): 45.96424,   State: False,  Number: 10
+
+Time: 0.510582,  Time(CD): 59.48942,   State: False,  Number: 1
+
+Time: 2.016068,  Time(CD): 57.98393,   State: False,  Number: 2
+
+Time: 3.51844,  Time(CD): 56.48156,   State: False,  Number: 3
+
+Time: 5.023705,  Time(CD): 54.9763,   State: False,  Number: 4
+
+Time: 6.527088,  Time(CD): 53.47291,   State: False,  Number: 5
+
+Time: 8.027245,  Time(CD): 51.97276,   State: False,  Number: 6
+
+Time: 10.00041,  Time(CD): 49.99959,  Interruption Event: Start: Open the door
+
+Time: 9.528255,  Time(CD): 50.47174,   State: False,  Number: 7
+
+Time: 11.02871,  Time(CD): 48.97129,   State: False,  Number: 8
+
+Time: 12.53346,  Time(CD): 47.46654,   State: False,  Number: 9
+
+Time: 14.03908,  Time(CD): 45.96092,   State: False,  Number: 10
+
+Time: 15.53949,  Time(CD): 44.46051,   State: False,  Number: 11
+
+Time: 17.04211,  Time(CD): 42.95789,   State: False,  Number: 12
+
+Time: 0.5037193,  Time(CD): 59.49628,   State: False,  Number: 1
+
+Time: 2.005756,  Time(CD): 57.99424,   State: False,  Number: 2
+
+Time: 3.507481,  Time(CD): 56.49252,   State: False,  Number: 3
+
+Time: 5.01149,  Time(CD): 54.98851,   State: False,  Number: 4
+
+Time: 6.51408,  Time(CD): 53.48592,   State: False,  Number: 5
+
+Time: 8.014851,  Time(CD): 51.98515,   State: False,  Number: 6
+
+Time: 0.508255,  Time(CD): 59.49174,   State: False,  Number: 1
+
+Time: 2.008255,  Time(CD): 57.99174,   State: False,  Number: 2
+
+Time: 3.513985,  Time(CD): 56.48602,   State: False,  Number: 3
+
+Time: 5.020397,  Time(CD): 54.9796,   State: False,  Number: 4
+
+Time: 6.524242,  Time(CD): 53.47576,   State: False,  Number: 5
+
+Time: 8.024693,  Time(CD): 51.97531,   State: False,  Number: 6
+
+Time: 10.00341,  Time(CD): 49.99659,  Interruption Event: Start: Open the door
+
+Time: 9.531143,  Time(CD): 50.46886,   State: False,  Number: 7
+
+Time: 11.03761,  Time(CD): 48.96239,   State: False,  Number: 8
+
+Time: 12.53848,  Time(CD): 47.46152,   State: False,  Number: 9
+
+Time: 14.04518,  Time(CD): 45.95482,   State: False,  Number: 10
+
+Time: 15.54697,  Time(CD): 44.45303,   State: False,  Number: 11
+
+Time: 17.05319,  Time(CD): 42.94681,   State: False,  Number: 12
+
+Time: 18.55829,  Time(CD): 41.44171,   State: False,  Number: 13
+
+Time: 20.00117,  Time(CD): 39.99883,  Interruption Event: Signal
+
+Time: 20.05938,  Time(CD): 39.94062,   State: False,  Number: 14
+
+Time: 21.5667,  Time(CD): 38.4333,   State: False,  Number: 15
+
+Time: 23.06776,  Time(CD): 36.93224,   State: False,  Number: 16
+
+Time: 25.00751,  Time(CD): 34.99249,  Interruption Event: Asking
+
+Time: 24.56863,  Time(CD): 35.43137,   State: False,  Number: 17
+
+Time: 26.07112,  Time(CD): 33.92888,   State: False,  Number: 18
+
+Time: 27.57592,  Time(CD): 32.42408,   State: False,  Number: 19
+
+Time: 29.07884,  Time(CD): 30.92116,   State: False,  Number: 20
+
+Time: 30.00653,  Time(CD): 29.99347,  Interruption Event: Stop Asking
+
+Time: 30.58397,  Time(CD): 29.41603,   State: False,  Number: 21
+
+Time: 32.08408,  Time(CD): 27.91592,   State: False,  Number: 22
+
+Time: 33.58498,  Time(CD): 26.41501,   State: False,  Number: 23
+
+Time: 35.08659,  Time(CD): 24.91341,   State: False,  Number: 24
+
+Time: 36.59103,  Time(CD): 23.40898,   State: False,  Number: 25
+
+Time: 38.09192,  Time(CD): 21.90808,   State: False,  Number: 26
+
+Time: 39.59323,  Time(CD): 20.40677,   State: False,  Number: 27
+
+Time: 41.09488,  Time(CD): 18.90512,   State: False,  Number: 28
+
+Time: 42.60006,  Time(CD): 17.39994,   State: False,  Number: 29
+
+Time: 44.10159,  Time(CD): 15.89841,   State: False,  Number: 30
+
+Time: 45.60209,  Time(CD): 14.39791,   State: False,  Number: 31
+
+Time: 47.10353,  Time(CD): 12.89647,   State: False,  Number: 32
+
+Time: 48.60432,  Time(CD): 11.39568,   State: False,  Number: 33
+
+Time: 50.00439,  Time(CD): 9.995606,  Interruption Event: Start leaving
+
+Time: 50.10922,  Time(CD): 9.890776,   State: False,  Number: 34
+
+Time: 51.61247,  Time(CD): 8.387526,   State: False,  Number: 35
+
+Time: 53.11336,  Time(CD): 6.88664,   State: False,  Number: 36
+
+Time: 54.61948,  Time(CD): 5.380524,   State: False,  Number: 37
+
+Time: 57.00439,  Time(CD): 2.995606,  Interruption Event: End: Close Door
+
+Time: 56.12105,  Time(CD): 3.878954,   State: False,  Number: 38
+
+Time: 57.62495,  Time(CD): 2.375051,   State: False,  Number: 39

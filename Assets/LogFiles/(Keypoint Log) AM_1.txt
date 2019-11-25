@@ -1,0 +1,47 @@
+
+
+****************STUDY RESULT LOG******************
+
+Study Date and Time: 11/21/2019 12:56:04 PM
+Group: AM
+
+<Interruption(Intr) Time Info>
+ (Intr Start) The time the bystander entered the room: 10
+ (Intr Signal/Touch) The time the bystander gave the player a siganl: 20
+ (Intr Asking) The time the bystander start asking the player a question: 25
+ (Intr End Asking) The time the bystander end askig: 30
+ (Intr Leaving) The time the bystander start leaving the room: 50(50)
+ (Intr End) The time the bystander closed the door: 57(57)
+ (Intr Duration) The total time the bystander stayed in the room:47(47)
+
+<Pause Time Info>
+ The player did not take a break
+
+<Response Time(RT) Info>
+ The player did not take a break
+
+<<BALL Info>>
+<TOTAL GAME>
+ total play duration: 60
+ play time: 60(Percentage: 100.00 %)
+ thrown Balls: 39
+ shot Balls: 0
+ missed Balls: 39
+ Percentage: 0.00 %
+
+<BEFORE BREAK>
+ time: 0
+ thrown Balls: 39
+ shot Balls: 0
+ missed Balls: 39
+ Percentage: 0.00 %
+
+<AFTER THE FIRST PAUSE>
+ The player did not take a break
+
+<WHILE THE BYSTANDER IS IN THE ROOM>
+ duration: 47
+ thrown Balls: 31
+ shot Balls: 0
+ missed Balls: 31
+ Percentage: 0.00 %
